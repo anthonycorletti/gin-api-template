@@ -1,0 +1,3 @@
+server_port: 8080
+dsn: "host=localhost port=5432 user=anthcor dbname=gin-sampler sslmode=disable"
+api_key: "secretsauce"
