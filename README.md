@@ -12,7 +12,7 @@ as a boilerplate for more important projects that need a little kick in their
 step.
 
 This project was built atop 
-[go-build-template](https://travis-ci.org/thockin/go-build-template) by 
+[go-build-template](https://github.com/thockin/go-build-template) by
 [thockin](https://github.com/thockin); it is incredibly dope and helpful.
 
 ### Contributions & Suggestions
