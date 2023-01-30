@@ -2,7 +2,7 @@
 
 This is a sample gin api.
 
-Here's a great [blog post](https://anthonycorletti.com/post/go-gin-sampler) about it.
+Here's a great [blog post](https://www.corletti.xyz/blog/go-gin-sampler) about it.
 
 It persists data in a postgres store and follows 
 a Router-API-Service-[DAO](https://en.wikipedia.org/wiki/Data_access_object)-Model design pattern. 
